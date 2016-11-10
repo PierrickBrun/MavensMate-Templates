@@ -1,3 +1,13 @@
+/* Créée par XXX le 00/00/0000.
+ *
+ * Testée dans :
+ *
+ * Description :
+ *
+ * Modif : non
+ *
+ */
+
 global class {{ api_name }} implements Database.Batchable<sObject> {
 	
 	String query;
