@@ -1,3 +1,16 @@
+/* Créée par XXX le 00/00/0000.
+ *
+ * Page(s) l'utilisant :
+ *
+ *
+ * Testée dans :
+ *
+ * Description :
+ *
+ * Modif : non
+ *
+ */
+
 public with sharing class {{ api_name }} {
 
 	private final sObject mysObject;
