@@ -1,3 +1,12 @@
+/* Créée par XXX le 00/00/0000.
+ *
+ * Permet de tester :
+ *
+ *
+ * Modif : non
+ *
+ */
+
 @isTest
 public class {{ api_name }} implements HttpCalloutMock {
 
