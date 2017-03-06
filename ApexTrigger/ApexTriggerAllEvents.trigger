@@ -18,8 +18,8 @@ trigger {{ api_name }} on {{ object_name }} (before insert, before update, befor
 
 		// AFTER
 		}else if( Trigger.isAfter && Trigger.isInsert ){
-		}else if(Trigger.isAfter && Trigger.isUpdate){
-		}else if( Trigger.isAfter && Trigger.isDelete ){}
+		}else if(Trigger.isAfter && Trigger.isUpdate ){
+		}else if( Trigger.isAfter && Trigger.isDelete ){
 		}else if( Trigger isAfter && Trigger.isUndelete ){
 		}
 	}
